@@ -1,4 +1,4 @@
-## Micro meta-micro-framework
+## meta-micro framework
 
 This project is a fictional open-source meta-micro-framework project, created to demo the abilities of [prismic.io](http://prismic.io)
 
